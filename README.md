@@ -2,27 +2,26 @@
 ### Dataset, Python file is uploaded!!
 Data analysed and visualised using Python.
 
-Welcome to the AirlineDataAnalysis repository, where Python takes flight to uncover valuable insights within the dynamic aviation industry. This project focuses on in-depth analysis, visualization, and interpretation of airline data, offering a comprehensive understanding of operational patterns, customer behaviors, and industry trends.
+*** Overview:
+
+Welcome to the HotelDataAnalysis repository, where Python empowers a comprehensive exploration of hotel data. This project is designed to delve into the dynamics of the hospitality industry, analyzing key metrics, guest preferences, and operational efficiency to unveil valuable insights for hotel management and decision-makers.
 
 *** Key Features:
 
 -   Data Wrangling and Cleaning:
-Python scripts for importing, cleaning, and transforming diverse airline datasets. Ensuring data integrity and consistency for robust analysis.
+Python scripts for importing, cleaning, and preprocessing diverse hotel datasets. Ensuring data consistency and reliability for meaningful analysis.
 
 -   Exploratory Data Analysis (EDA):
-Leveraging Pandas, NumPy, and Matplotlib for comprehensive EDA. Visualizing key metrics such as flight patterns, delays, and passenger statistics.
+Utilizing Pandas, NumPy, and Matplotlib for in-depth EDA. Visualizing key metrics such as occupancy rates, booking patterns, and guest demographics.
 
--   Customer Behavior Analysis:
-Analyzing customer preferences and behaviors using Python data analytics tools. Identifying patterns and trends to enhance the passenger experience.
+-   Operational Efficiency Optimization:
+Analyzing data to enhance operational efficiency and resource allocation. Providing insights for improving guest experiences and streamlining processes.
 
--   Predictive Modeling (Optional):
-Implementing machine learning algorithms for predictive analysis. Forecasting trends such as future demand or potential delays.
-Technologies Used:
+*** Technologies Used:
 
-*** Python Libraries:
+-   Python Libraries:
 
-Pandas, NumPy for data manipulation and analysis.
-Matplotlib and Seaborn for data visualization.
+Pandas, NumPy for data manipulation and analysis. Matplotlib and Seaborn for data visualization.
 
 *** Contributing:
 
