@@ -1,5 +1,5 @@
 # Hotel_Data_Analysis
-### Dataset, Python file is uploaded!!
+### Dataset and Python file are uploaded!!
 Data analysed and visualised using Python.
 
 *** Overview:
